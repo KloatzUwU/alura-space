@@ -18,7 +18,7 @@ export default function PaginaInicial() {
                         <Banner/>
                     </div>
                 </section>
-                <div>
+                <div style={{display:'flex', marginBottom: '85px'}}>
                     <Galeria/>
                     <Populares/>
                 </div>
